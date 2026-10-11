@@ -42,3 +42,4 @@ models/
 *.tmp
 
 venv/
+item_images/
