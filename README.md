@@ -73,7 +73,7 @@ The generated files are saved to:
 Print the PDF at **100% scale** with “Fit to page” disabled.
 
 **3. Generate item illustrations**
-I've included a zip with the pre-generated item illustrations which you can download and extract to `output/item_images/`. There is 3 versions of each item generated, you can take a look at them and if you find a particular one you like, just rename that file to remove the version suffix (example: `item_1.png` -> `item.png`). These can be used for the item cards in the `main.py` script.
+I've included a zip with the [pre-generated item illustrations](https://github.com/pipstur/dnd-card-generator/releases/tag/v1.0) which you can download and extract to `output/item_images/`. There is 3 versions of each item generated, you can take a look at them and if you find a particular one you like, just rename that file to remove the version suffix (example: `item_1.png` -> `item.png`). These can be used for the item cards in the `main.py` script.
 
 If you want to generate your own illustrations, follow the instructions below.
 If you've run the setup script, you can generate item illustrations for the wondrous items. The script uses ComfyUI and Ollama to generate images based on the scraped item descriptions.
