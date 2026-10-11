@@ -1,0 +1,19 @@
+{
+  "csv_path": "output/dnd5e_wondrous_items.csv",
+  "output_dir": "output/item_images/",
+  "log_path": "output/generation_log.jsonl",
+  "workflow_path": "config/comfy_workflow.json",
+  "ollama_url": "http://localhost:11434/api/generate",
+  "ollama_model": "qwen2.5:14b-instruct",
+  "ollama_temperature": 0.7,
+  "ollama_timeout": 300,
+  "comfy_url": "http://127.0.0.1:8188",
+  "comfy_timeout": 180,
+  "positive_prompt_node_id": "90:77",
+  "negative_prompt_node_id": "90:75",
+  "ksampler_node_id": "90:76",
+  "save_image_node_id": "46",
+  "style_suffix": ", pure white background, soft gray smoke wisping behind the object, high fantasy painterly digital painting, rich brushwork, soft realistic shading, dramatic lighting, detailed textures, centered composition",
+  "negative_prompt": "worst quality, low quality, score_1, score_2, score_3, blurry, jpeg artifacts, sepia, text, watermark, writing, letters, words, logo, signature, caption, speech bubble, label, title, black background",
+  "variants": 1
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Fire Bolt",
+    "level": 0,
+    "school": "Evocation",
+    "casting_time": "1 action",
+    "range": "120 feet",
+    "duration": "Instantaneous",
+    "components": "V, S",
+    "description": "You hurl a mote of fire at a creature or object within range. Make a ranged spell attack. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.",
+    "classes": ["Sorcerer", "Wizard"]
+  },
+  {
+    "name": "Shield",
+    "level": 1,
+    "school": "Abjuration",
+    "casting_time": "1 reaction",
+    "range": "Self",
+    "duration": "1 round",
+    "components": "V, S",
+    "description": "An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, and you take no damage from magic missile.",
+    "classes": ["Sorcerer", "Wizard"]
+  },
+  {
+    "name": "Misty Step",
+    "level": 2,
+    "school": "Conjuration",
+    "casting_time": "1 bonus action",
+    "range": "Self",
+    "duration": "Instantaneous",
+    "components": "V",
+    "description": "Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.",
+    "classes": ["Sorcerer", "Warlock", "Wizard"]
+  },
+  {
+    "name": "Fireball",
+    "level": 3,
+    "school": "Evocation",
+    "casting_time": "1 action",
+    "range": "150 feet",
+    "duration": "Instantaneous",
+    "components": "V, S, M (a tiny ball of bat guano and sulfur)",
+    "description": "A bright streak flashes to a point you choose within range then blossoms into an explosion of flame. Each creature in a 20-foot-radius sphere must make a Dexterity saving throw, taking 8d6 fire damage on a failed save, or half as much on a success.",
+    "classes": ["Sorcerer", "Wizard"]
+  },
+  {
+    "name": "Guidance",
+    "level": 0,
+    "school": "Divination",
+    "casting_time": "1 action",
+    "range": "Touch",
+    "duration": "Concentration, up to 1 minute",
+    "components": "V, S",
+    "description": "You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice.",
+    "classes": ["Cleric", "Druid"]
+  },
+  {
+    "name": "Sleep",
+    "level": 1,
+    "school": "Enchantment",
+    "casting_time": "1 action",
+    "range": "90 feet",
+    "duration": "1 minute",
+    "components": "V, S, M (a pinch of fine sand)",
+    "description": "This spell sends creatures into a magical slumber. Roll 5d8; the total is how many hit points of creatures this spell can affect, starting with the lowest current HP.",
+    "classes": ["Bard", "Sorcerer", "Wizard"]
+  }
+]

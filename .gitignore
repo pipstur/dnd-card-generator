@@ -1,0 +1,44 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Generated card output
+output/svg/
+output/cards.pdf
+
+# AI models and local AI installations
+ComfyUI_windows_portable/
+ComfyUI/
+models/
+*.safetensors
+*.ckpt
+*.gguf
+*.pt
+*.pth
+*.onnx
+
+# Logs and temporary downloads
+*.log
+*.partial
+*.tmp
+
+venv/

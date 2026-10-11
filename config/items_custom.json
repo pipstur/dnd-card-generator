@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Potion of Healing",
+    "item_type": "Potion",
+    "rarity": "common",
+    "description": "You regain 2d4 + 2 hit points when you drink this potion. The color, texture, and flavor of the potion vary by version.",
+    "attunement": false,
+    "value": "50 gp",
+    "icon_image": "healing_potion.png"
+  },
+  {
+    "name": "Potion of Healing",
+    "item_type": "Potion",
+    "rarity": "common",
+    "description": "You regain 2d4 + 2 hit points when you drink this potion. The color, texture, and flavor of the potion vary by version.",
+    "attunement": false,
+    "value": "50 gp",
+    "icon_image": "healing_potion.png"
+  },
+  {
+    "name": "Potion of Healing",
+    "item_type": "Potion",
+    "rarity": "common",
+    "description": "You regain 2d4 + 2 hit points when you drink this potion. The color, texture, and flavor of the potion vary by version.",
+    "attunement": false,
+    "value": "50 gp",
+    "icon_image": "healing_potion.png"
+  },
+  {
+    "name": "Ring of Resilience",
+    "item_type": "Ring",
+    "rarity": "uncommon",
+    "description": "You gain advantage on constitution saving throws while wearing this ring.",
+    "attunement": true,
+    "value": "100 gp",
+    "icon_image": "ring_of_resilience.png"
+  },
+  {
+    "name": "Amulet of Dancing Lights",
+    "item_type": "Amulet",
+    "rarity": "uncommon",
+    "description": "While wearing this amulet, you can use your action to cast the dancing lights spell. You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10-foot radius. As a bonus action on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell’s range.",
+    "attunement": true,
+    "value": "50 gp",
+    "icon_image": "amulet_of_dancing_lights.png"
+  },
+  {
+    "name": "Bracelet of Warmth",
+    "item_type": "Bracelet",
+    "rarity": "uncommon",
+    "description": "While wearing this bracelet, you have resistance to cold damage. You can also use an action to cast the cantrip Firebolt (1d10 fire damage, +3 to hit), creating a small flame.\n\nYou can also use an action to expend 1 charge to channel the warmth through your hand on to an object or creature you touch, causing it to melt or burn. The object or creature must make a DC 13 Dexterity saving throw, taking 2d6 fire damage on a failed save, or half as much damage on a successful one.\n\nThe bracelet has 3 charges, and it regains 1d3 expended charges daily at dawn.",
+    "attunement": true,
+    "value": "70 gp",
+    "icon_image": "bracelet_of_warmth.png"
+  },
+  {
+    "name": "Javelin of Lightning",
+    "item_type": "Weapon (javelin)",
+    "rarity": "uncommon",
+    "description": "This javelin is a magic weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a target within 120 feet. Each creature in the line excluding you and the target must make a DC 13 Dexterity saving throw, taking 4d6 lightning damage on a failed save, and half as much damage on a successful one. The lightning bolt turns back into a javelin when it reaches the target. Make a ranged weapon attack against the target. On a hit, the target takes damage from the javelin plus 4d6 lightning damage. \n\nThe javelin's property can't be used again until the next dawn. In the meantime, the javelin can still be used as a magic weapon.",
+    "attunement": true,
+    "value": "",
+    "icon_image": "javelin_of_lightning.jpeg"
+  }
+]

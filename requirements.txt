@@ -1,0 +1,5 @@
+Pillow>=10.0.0
+svglib>=1.5.1
+reportlab>=4.0.0
+beautifulsoup4==4.15.0
+requests==2.34.2
